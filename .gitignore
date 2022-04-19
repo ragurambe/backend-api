@@ -1,0 +1,6 @@
+node_modules
+Procfile
+.vscode
+/scripts
+delete_not_supported_articles.js
+db_script.js
